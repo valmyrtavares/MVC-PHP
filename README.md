@@ -1,3 +1,3 @@
-Nessa última aula foi mostrado como entrar com o css e com imagens
-Claro que temos lacunas inteiras ainda para isso dar certo, espero que tenha um projeto completo
-com tudo que foi ensinado para alinhavar tudo. Esse terminha aqui
+229 / 5000
+Resultados de tradução
+In this last class it was shown how to enter with css and with images Of course we still have whole gaps for this to work, I hope you have a complete project with everything that was taught to tack everything together. This one ends here 
