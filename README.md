@@ -1,2 +1,2 @@
-Aqui temos um exemplo simples fácil para se entender como manipular os views dentro do mvc
-Mandando os dados pelo controller bem didático e simples, basta seguiro o código
+Contruindo o formulário e os partials, bem interessante e fácil de entender, muito similar ao que já
+foi aprendido em node
