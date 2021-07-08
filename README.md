@@ -1,2 +1,3 @@
-O sistema é simples, o update está pronto muito fácil, acho mesmo que é só olhar e sair andando
-Funcionou fácil como nunca foi
+Nessa última aula foi mostrado como entrar com o css e com imagens
+Claro que temos lacunas inteiras ainda para isso dar certo, espero que tenha um projeto completo
+com tudo que foi ensinado para alinhavar tudo. Esse terminha aqui
